@@ -28,6 +28,14 @@
 --bodyfont: abc camera plain unlicensed trial;
 --titlefont: abc gravity semicondensed unlicensed trial;
 } 
+
+.container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
 .responsive-iframe {
   position: absolute;
   top: 0;
@@ -38,6 +46,7 @@
   height: 100%;
   border: none;
 }
+
     </style>
     <link
       rel="stylesheet"
@@ -84,11 +93,7 @@
       
 </section><section class="dark default-container present has-dark-background fitted" data-background-color="#A13BCF" data-updated="true" style="display: grid;">
 
-<div class="header"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
-<div class="layout-default" style="width: 100%; font-size: 1rem;">
-  <div style=""><h4 id="commentcesystèmemarche-t-il">Comment ce système marche-t-il?</h4>
-
-<p>C'est très simple !</p>
+<div class="container">
 
 <iframe class="responsive-iframe"
 id="inlineFrameExample"
@@ -102,8 +107,6 @@ id="inlineFrameExample"
 
 <p><a href="https://stylo.social">Le cloud incroyable</a> </p></div>
 </div>
-<div class="footnotes"></div>
-<div class="footer"><div class="leading"></div><div class="middle"></div><div class="trailing"></div></div>
 
 </section></div>
     </div>
