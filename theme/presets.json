@@ -1,0 +1,66 @@
+{
+  "Presets": [
+    {
+      "Name": "Default",
+      "TitleFont": "system-ui",
+      "BodyFont": "system-ui",
+      "Appearance" : "dark",
+      "DarkBodyTextColor": "#000000",
+      "LightBodyTextColor": "#ffffff",
+      "DarkTitleTextColor": "#000000",
+      "LightTitleTextColor": "#ffffff",
+      "DarkBackgroundColor": "transparent",
+      "LightBackgroundColor": "transparent",
+      "Accent1": "#f94144",
+      "Accent2": "#43aa8b",
+      "Accent3": "#f9c74f",
+      "Accent4": "#90be6d",
+      "Accent5": "#f8961e",
+      "Accent6": "#577590",
+      "LightBgGradient":[
+          "#c7e7ff",
+          "#f0c8ff",
+          "#ffdada",
+          "#ffebb2"
+      ],
+      "DarkBgGradient":[
+          "#15354c",
+          "#3e154c",
+          "#4c2828",
+          "#4c3900"
+      ],
+    },
+    {
+      "Name": "Light",
+      "Appearance" : "light",
+      "TitleFont": "system-ui",
+      "BodyFont": "system-ui",
+      "DarkBodyTextColor": "#000000",
+      "LightBodyTextColor": "#ffffff",
+      "DarkTitleTextColor": "#000000",
+      "LightTitleTextColor": "#ffffff",
+      "DarkBackgroundColor": "transparent",
+      "LightBackgroundColor": "transparent",
+      "Accent1": "#000",
+      "Accent2": "#333",
+      "Accent3": "#666",
+      "Accent4": "#999",
+      "Accent5": "#CCC",
+      "Accent6": "#EEE",
+      "LightBgGradient":[
+          "#c7e7ff",
+          "#f0c8ff",
+          "#ffdada",
+          "#ffebb2"
+      ],
+      "DarkBgGradient":[
+          "#15354c",
+          "#3e154c",
+          "#4c2828",
+          "#4c3900"
+      ],
+    }
+  ]
+}
+
+

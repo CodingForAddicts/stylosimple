@@ -1,0 +1,11 @@
+{
+  "Name": "Tokyo",
+  "Version": 0.1,
+  "Author": "iA",
+  "ShortDescription": "Big type, lots of color.",
+  "LongDescription": "Big type, lots of color\n- Different sizes for headlines\n- Top to bottom gradient for backgrounds\n- Default white on dynamic color\n- System Font",
+  "Css": "tokyo.css",
+  "TitleFont": "System",
+  "BodyFont": "System",
+ 
+}
